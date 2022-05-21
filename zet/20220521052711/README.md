@@ -9,4 +9,7 @@
 ## Showing current directory
 `pwd`
 
+## Shutdown the pc from terminal
+`shutdown -h now`
+
     #Linux #Terminal #Commands #Boost
