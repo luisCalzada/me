@@ -1,4 +1,4 @@
-#React Customs Hooks
+# React Customs Hooks
 You can create a custom hook in react, to help you reuse some business logic through all of the website.
 To do this you just define a const, as a convention any custom hook name should start with *use*.
 Then you just write in whatever you want the hook to do and at the end return whatever you need to expose in order to
