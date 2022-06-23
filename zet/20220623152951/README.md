@@ -9,4 +9,4 @@ And all of this just replaced the old punch cards used to program computers.
 Fun fact: Terminals introduced the 80 columns width. Now a days it's good practice to not write a line
 of code longer than 80 cols because of it.
 
-#Boost #Terminal #CLI #Shell #HistoryOfComputers #CSFundamentals
+  #Boost #Terminal #CLI #Shell #HistoryOfComputers #CSFundamentals
